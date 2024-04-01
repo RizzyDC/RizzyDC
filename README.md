@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RizzyDC
-- 👀 I’m interested in JavaScript, React, Node.js, UX/UI, Web3, Crypto, 
-- 🌱 I’m currently learning JavaScript...
-- 💞️ I’m looking to collaborate on Web Projects...
+- 👀 I’m interested in JavaScript, TypeScript, React, Redux, Node.js, CSS, Web3, Crypto, UX/UI, 
+- 🌱 I’m currently learning TypeScript, React, Redux
+- 💞️ I’m looking for friends to make projects together
 - 📫 mail me here: 6c2uvkevm@mozmail.com ...
 
 <!---
